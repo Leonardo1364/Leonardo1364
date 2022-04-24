@@ -1,6 +1,6 @@
 ## Olá eu sou o Leonardo Mota! 
 
-Atualmente estou cursando o 5º Semestre de Análise e Desenvolvimento de Sistemas na Unisinos e sou desenvolvedor Java Spring Boot!
+Atualmente estou cursando o 5º Semestre de Análise e Desenvolvimento de Sistemas na Unisinos e sou desenvolvedor Full Stack!
   
   ##
 
