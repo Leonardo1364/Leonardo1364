@@ -49,23 +49,15 @@ Análise e evolução da comunicação entre frontend, BFF e serviço de autenti
 ### 🖼️ Gestão e distribuição de conteúdo
 Trabalho com uploads e investigação do fluxo de publicação de mídia, do armazenamento à CDN. Também venho estruturando funcionalidades de encartes com conteúdo dinâmico em Angular, HTML e SCSS, voltadas à impressão e geração de PDF.
 
-## Projetos públicos
-
-Alguns repositórios de estudos e provas de conceito que fazem parte da minha trajetória:
-
-- [API Hexagonal Architecture WebFlux](https://github.com/Leonardo1364/API-Hexagonal-Architecture-WebFlux)
-- [API Soccer WebFlux](https://github.com/Leonardo1364/API-Soccer-Webflux)
-- [Cypress versão 10](https://github.com/Leonardo1364/Cypress-version-10) — prova de conceito para validar mudanças em testes end-to-end com Cypress.
-
 ## Como penso software
 
 Priorizo a separação de responsabilidades entre interface e backend, contratos claros e componentes que possam ser reaproveitados em outros fluxos. Procuro entender o problema antes de adicionar dependências e avaliar as decisões pelo impacto na manutenção e na experiência de quem usa o produto.
 
 Uso ferramentas de IA como apoio à análise técnica, à investigação de problemas e à estruturação de tarefas, sempre revisando as propostas no contexto da aplicação.
 
-## Projeto pessoal em evolução
+## Estudos e iniciativas pessoais
 
-Estou estruturando uma aplicação de recomendações fitness integrada ao Garmin, com **Java/Spring Boot, PostgreSQL e Docker** no backend e ambiente de desenvolvimento. **React Native** está entre as possibilidades em avaliação para a experiência mobile. É uma iniciativa para aproximar desenvolvimento de software, dados de atividades físicas e recomendações personalizadas.
+Estou planejando uma aplicação de recomendações fitness integrada ao Garmin, avaliando **Java/Spring Boot, PostgreSQL e Docker** para o backend e o ambiente de desenvolvimento. **React Native** está entre as possibilidades em avaliação para a experiência mobile. É uma iniciativa para aproximar desenvolvimento de software, dados de atividades físicas e recomendações personalizadas.
 
 <details>
 <summary><strong>📊 Atividade no GitHub</strong></summary>
