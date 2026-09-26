@@ -62,11 +62,7 @@ Estou planejando uma aplicação de recomendações fitness integrada ao Garmin,
 <details>
 <summary><strong>📊 Atividade no GitHub</strong></summary>
 
-<br>
-
-<div align="center">
-  <img height="170" alt="Estatísticas dos repositórios públicos de Leonardo Mota no GitHub" src="https://github-readme-stats.vercel.app/api?username=Leonardo1364&show_icons=true&theme=dark" />
-  <img height="170" alt="Linguagens presentes nos repositórios públicos de Leonardo Mota" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo1364&layout=compact&langs_count=7&theme=dark" />
-</div>
+- [Contribuições e atividade recente](https://github.com/Leonardo1364)
+- [Histórico deste README](https://github.com/Leonardo1364/Leonardo1364/commits/master/)
 
 </details>
